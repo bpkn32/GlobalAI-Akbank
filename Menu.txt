@@ -1,0 +1,24 @@
+Welcome to The Sizzling Slice.
+
+	Pizza Types:
+	
+	1) Classic ( Classic marinara souce with mozarella cheese,pepperoni,olives and peppers)
+	2) Margherita ( Classic marinara souce with generous amount of mozarella cheese and sliced tomatoes)
+	3) Turkish Pizza ( Marinara & hot pepper paste, tulum cheese, diced sucuk and pastirma (spiced beef jerky))
+	4) PlainPizza (Create your own pizza!)
+
+	Crust Types:
+
+	Thin, Normal, Thick.
+
+	Sizes:
+
+	Small, Medium, Large.
+
+	Toppings:
+
+	Tomato, Olive, GoatCheese, Mozarella Cheese, Mushroom, Sliced Beef, Onion, Pepper.
+
+
+Choose the pizza you want, than decide size, crust type and toppings as you like.
+	
